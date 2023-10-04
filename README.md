@@ -4,3 +4,7 @@
 ![image](Screenshots/Screenshot-Docker-Version.png)  
 <br />  
 
+## Activity 3 (Screenshot):  
+![image](Screenshots/Screenshot-Welcome-To-Lab3.png)  
+<br />  
+
