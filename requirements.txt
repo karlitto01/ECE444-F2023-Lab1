@@ -1,0 +1,11 @@
+flask
+flask_bootstrap
+flask_moment
+flask_wtf
+datetime
+itsdangerous
+jinja2
+werkzeug
+email_validator
+# In case there are errors on windows use werkzeug==2.0.3
+wtforms
